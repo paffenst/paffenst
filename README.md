@@ -5,6 +5,9 @@
 ## GitHub 🏆 
 ![](https://github-profile-trophy.vercel.app/?username=paffenst&theme=radical&no-frame=true&no-bg=true&margin-w=2)
 ![Visitor Count](https://profile-counter.glitch.me/{paffenst}/count.svg)
+## 💰 You can help paffen'me :)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=green)](https://paypal.me/paffenme)
+
 <!--
 **paffenst/paffenst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
